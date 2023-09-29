@@ -8,6 +8,7 @@ TagManager:
   - BonusJump
   - Coin
   - BonusSpeed
+  - Gem
   layers:
   - Default
   - TransparentFX

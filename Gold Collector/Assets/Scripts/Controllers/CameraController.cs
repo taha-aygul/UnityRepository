@@ -3,9 +3,9 @@ using UnityEngine;
 public class CameraController : MonoBehaviour
 {
 
-    public float 
+    public float
         rotationX, rotationY,
-        cameraBorderX, cameraBorderY, 
+        cameraBorderX, cameraBorderY,
         sensX, sensY;
 
     private GameObject player;
@@ -26,7 +26,11 @@ public class CameraController : MonoBehaviour
     void Update()
     {
         //OnMouseDrag();
-        RotateCamera();
+        if (Time.timeScale == 1)
+        {
+            RotateCamera();
+
+        }
 
     }
 
@@ -49,7 +53,7 @@ public class CameraController : MonoBehaviour
     }
 
 
-        private void OnMouseDrag()
+    private void OnMouseDrag()
     {
         float mouseX = Input.GetAxis("Mouse X") * sensX;
         float mouseY = Input.GetAxis("Mouse Y") * sensY;

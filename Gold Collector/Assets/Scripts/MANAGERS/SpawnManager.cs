@@ -118,7 +118,7 @@ public class SpawnManager : MonoBehaviour
 
     private void Spawn()
     {
-        if(_nextObject != null)
+        if (_nextObject != null)
         {
             Instantiate(_nextObject, spawnPoint, Quaternion.identity);
         }
@@ -144,7 +144,6 @@ public class SpawnManager : MonoBehaviour
     {
         childsTransform = level.GetComponentsInChildren<Transform>();
 
-        int j = 0;
         for (int i = 0; i < childsTransform.Length; i++)
         {
             if (childsTransform[i] != null)

@@ -60,15 +60,19 @@ public class PlayerController : MonoBehaviour
         if (other.CompareTag("DeadZone"))
         {
             UIManager.Instance.GameOver();
+            Cursor.lockState = CursorLockMode.Confined;
         }
         else if (other.CompareTag("Coin"))
         {
             Destroy(other.gameObject);
-            score += 1;
+            UIManager.Instance.IncreaseScore(5);
+
+            score += 5;
         }
         else if (other.CompareTag("Gem"))
         {
             Destroy(other.gameObject);
+            UIManager.Instance.IncreaseScore(10);
             score += 10;
         }
         else if (other.CompareTag("BonusJump") && !_isBonusJumped)

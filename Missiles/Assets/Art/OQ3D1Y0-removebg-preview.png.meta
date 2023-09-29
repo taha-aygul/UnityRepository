@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: 7e5451b672d31bc428da0a3059ba41c4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 455
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa6a95aaecf6b2489662bf8c880172a
+      internalID: 426623618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 455
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a322c8ce9e43754e9b0d76fd8daa605
+      internalID: -1833472165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 455
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8e46f784993fe4187d6196ecfd7405
+      internalID: 1581016118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 455
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e53ecdf34882da4d85348b9baae49c4
+      internalID: 345101727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 450
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d925233cb51852d4eb10f0e47ba1068c
+      internalID: 2099587459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 446
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7bf2bc2ed42f947b94fc7a9eec3767
+      internalID: -81180269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 442
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f2bf76a853e543bec74ada0a079a3
+      internalID: 2075375475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 455
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c14c0e13ff9544ae25e48952acdb5
+      internalID: -1181795669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 412
+        width: 71
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c2aea1281d744089f4c030bfb7f31
+      internalID: 1987477224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 413
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e75718f2bc948c49976dc0aafcd65ba
+      internalID: 1958826092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 413
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d8d130534537949bb2f07191f1d46f
+      internalID: 402712005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 414
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb60a61f86ce95046a79e89d91b882c3
+      internalID: -710563447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 399
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9395f11769d3947a5f6625ce7629c3
+      internalID: 1363733606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 427
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82c042ddd83b5d41886c3d21d8d8ec2
+      internalID: 218142474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 379
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f10c9eb0a347394e8fc817f76ab7dda
+      internalID: 313643803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 376
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed6de765e57e0a4b87043acf959563e
+      internalID: -387050634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 374
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b293edaa9d3a114796c28b52e956c77
+      internalID: -152980422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 379
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b316bf891334fe408cd1df6a07d02fc
+      internalID: 1771778139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 399
+        width: 112
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d039fc4531c1e7c42ac1bfc72df9bb87
+      internalID: 1345596354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 387
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a95741fff059d4eb041c999c9d2781
+      internalID: -551093008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 334
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb891d9fae441243aa8519cfdccc499
+      internalID: 17309348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 334
+        width: 124
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e17b582d8e17a4ea6c568e3dda4c9d
+      internalID: -251559168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 338
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cd63a9482e85b4696f359327c1e4a3
+      internalID: -124111646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 351
+        width: 222
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0134ef4d8edd149a7a4d6903fa07c1
+      internalID: -2037450279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 312
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19661c972131e48bc6dc5ce5f8b614
+      internalID: -1680218049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 294
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fd33e318af1cc4195f5575a494559d
+      internalID: -65677651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 324
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b0df612a74e4c4bbf21b238fe444ac
+      internalID: -1023897011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 294
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d1be7fda714e64d88a601c2b677ded
+      internalID: -938170486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 323
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a13a325d1734b4ba3dc328652bdd41
+      internalID: -694645216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 293
+        width: 67
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e13d0fd346f63040a9ee8a247c5cf8c
+      internalID: -1112740890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 279
+        width: 217
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621bfb32446f7954da7fe35fd849e5af
+      internalID: 476957390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 233
+        width: 118
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b77f161283f0458c7c3fdba8bbd98
+      internalID: -2067571506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 233
+        width: 85
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fff7b700e8b7f844bdc872451319394
+      internalID: 1292169404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 241
+        width: 100
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed5a533696ca964c9a400b2fcd12d1c
+      internalID: 2031836631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 239
+        width: 99
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f5ca7d197c6ea45a80be7eb622f0e1
+      internalID: -114163028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 202
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f571896facfe9d7438e1cb8b0791fa4a
+      internalID: -12767618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 196
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4112d17fd19fa294991ed7ba23597eeb
+      internalID: -1730881122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 196
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf85513e8c65f94a99fffc4253c3fcf
+      internalID: -1984645620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 202
+        width: 78
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe90f3fc7d83d14e9afe4443493c555
+      internalID: 139234039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 188
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8544d6d7f4e7cdb41bc1be8cb56f7d77
+      internalID: -1282822935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 171
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c70b5ede30aef4992e394b6ad65c19
+      internalID: -680340198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 163
+        width: 108
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f4dcbafaf616469289f3e9a2778f5
+      internalID: -671765573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 163
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d225e347751e84ab0e07ac58290f1b
+      internalID: -1018170746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 163
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b597c61b90e174eb1b8eb2994114f0
+      internalID: -122444533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 160
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724b5666eba0f49458f01d4c68bc789c
+      internalID: -1713817166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 120
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5acc288d97df344eaa627b288a57ad4
+      internalID: -556581008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 140
+        width: 108
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe61576da1cbaf8458f68d9eaacb9527
+      internalID: 1453357386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 115
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995bf5ed76fb78b4cbd2eedd0d545d95
+      internalID: -1551589218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 97
+        width: 173
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce22b1f0ebe438843b198e4f1fdedc40
+      internalID: -1445730652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 100
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574fadd0fdb0e124b9aa5a9c18fe9038
+      internalID: 46620648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 67
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6857b4c0cbe110b4d926b3b299a64d9c
+      internalID: -693313422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 62
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ae978d3a3ddc4c82e9756205fcea3
+      internalID: 1268091184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 62
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6442d2d68e7570a4a9d8167243eb3db3
+      internalID: -1669614320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 55
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e329fe9471339a45b860dc3f58eecb2
+      internalID: -454045841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 73
+        width: 140
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c190fd766e8bea44b6118ce72069646
+      internalID: 727229749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 27
+        width: 172
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54544a380675d7b409f093ce654237e7
+      internalID: -2078278129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 27
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c881f59d00c6064ebb2cd51936132f4
+      internalID: 334859242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 23
+        width: 92
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a01744e6e325d540bbe8719ce21fc09
+      internalID: 1779021471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 20
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01af1ad00fface4eb107efef736cf7a
+      internalID: -748640646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OQ3D1Y0-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 23
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e916336a05a543bafb0300bd49ec2
+      internalID: -2036563178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OQ3D1Y0-removebg-preview_11: -710563447
+      OQ3D1Y0-removebg-preview_5: -81180269
+      OQ3D1Y0-removebg-preview_42: -1018170746
+      OQ3D1Y0-removebg-preview_15: -387050634
+      OQ3D1Y0-removebg-preview_13: 218142474
+      OQ3D1Y0-removebg-preview_36: -1730881122
+      OQ3D1Y0-removebg-preview_51: 1268091184
+      OQ3D1Y0-removebg-preview_28: -694645216
+      OQ3D1Y0-removebg-preview_35: -12767618
+      OQ3D1Y0-removebg-preview_20: 17309348
+      OQ3D1Y0-removebg-preview_52: -1669614320
+      OQ3D1Y0-removebg-preview_12: 1363733606
+      OQ3D1Y0-removebg-preview_22: -124111646
+      OQ3D1Y0-removebg-preview_45: -556581008
+      OQ3D1Y0-removebg-preview_29: -1112740890
+      OQ3D1Y0-removebg-preview_30: 476957390
+      OQ3D1Y0-removebg-preview_10: 402712005
+      OQ3D1Y0-removebg-preview_50: -693313422
+      OQ3D1Y0-removebg-preview_27: -938170486
+      OQ3D1Y0-removebg-preview_4: 2099587459
+      OQ3D1Y0-removebg-preview_25: -65677651
+      OQ3D1Y0-removebg-preview_47: -1551589218
+      OQ3D1Y0-removebg-preview_49: 46620648
+      OQ3D1Y0-removebg-preview_48: -1445730652
+      OQ3D1Y0-removebg-preview_59: -2036563178
+      OQ3D1Y0-removebg-preview_2: 1581016118
+      OQ3D1Y0-removebg-preview_21: -251559168
+      OQ3D1Y0-removebg-preview_31: -2067571506
+      OQ3D1Y0-removebg-preview_14: 313643803
+      OQ3D1Y0-removebg-preview_34: -114163028
+      OQ3D1Y0-removebg-preview_32: 1292169404
+      OQ3D1Y0-removebg-preview_17: 1771778139
+      OQ3D1Y0-removebg-preview_1: -1833472165
+      OQ3D1Y0-removebg-preview_41: -671765573
+      OQ3D1Y0-removebg-preview_43: -122444533
+      OQ3D1Y0-removebg-preview_46: 1453357386
+      OQ3D1Y0-removebg-preview_56: 334859242
+      OQ3D1Y0-removebg-preview_7: -1181795669
+      OQ3D1Y0-removebg-preview_26: -1023897011
+      OQ3D1Y0-removebg-preview_53: -454045841
+      OQ3D1Y0-removebg-preview_9: 1958826092
+      OQ3D1Y0-removebg-preview_0: 426623618
+      OQ3D1Y0-removebg-preview_19: -551093008
+      OQ3D1Y0-removebg-preview_57: 1779021471
+      OQ3D1Y0-removebg-preview_8: 1987477224
+      OQ3D1Y0-removebg-preview_3: 345101727
+      OQ3D1Y0-removebg-preview_58: -748640646
+      OQ3D1Y0-removebg-preview_44: -1713817166
+      OQ3D1Y0-removebg-preview_18: 1345596354
+      OQ3D1Y0-removebg-preview_6: 2075375475
+      OQ3D1Y0-removebg-preview_39: -1282822935
+      OQ3D1Y0-removebg-preview_54: 727229749
+      OQ3D1Y0-removebg-preview_24: -1680218049
+      OQ3D1Y0-removebg-preview_38: 139234039
+      OQ3D1Y0-removebg-preview_55: -2078278129
+      OQ3D1Y0-removebg-preview_23: -2037450279
+      OQ3D1Y0-removebg-preview_16: -152980422
+      OQ3D1Y0-removebg-preview_37: -1984645620
+      OQ3D1Y0-removebg-preview_33: 2031836631
+      OQ3D1Y0-removebg-preview_40: -680340198
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

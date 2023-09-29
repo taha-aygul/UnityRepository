@@ -29,6 +29,11 @@ public class UIManager : MonoBehaviour
         }
     }
 
+    private void Start()
+    {
+        Time.timeScale = 0;
+    }
+
     public void OpenHowToPlay()
     {
         startUI.SetActive(false);
@@ -41,17 +46,23 @@ public class UIManager : MonoBehaviour
     }
     public void StartGame()
     {
+        Time.timeScale = 1;
         startUI.SetActive(false);
         playingUI.SetActive(true);
     }
      public void GameOver()
     {
-        gameOverUI.SetActive(false);
+        Time.timeScale = 0;
+        gameOverUI.SetActive(true);
+
     }
 
     public void GameSucces()
     {
+        Time.timeScale = 0;
         gameSuccesUI.SetActive(true);
+
+
     }
 
     public void IncreaseScore(int score)
